@@ -5,7 +5,7 @@ from Messages import *
 from dataEgine import *
 
 
-access_token = 'YOUR_TOKEN'
+access_token = '1930651998:AAFNfKzq9xqzxywzOubfOSurSZyZzCEYBRU'
 bot = telebot.TeleBot(access_token)
 
 
